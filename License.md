@@ -1,24 +1,23 @@
-This work is in the public domain. 
-It is compiled by me, Vector Hasting with original authorship by me and 
+This work compiled by me, Vector Hasting with original authorship by me and 
 inclusion of language from public domain legislation including 
 S-907 from the 108th Congress introduced by Arlen Specter, and
 HR-1040 from the 107th Congress
-Also there is inspiration from the work "The Flat Tax, Second Edition," by Robert E Hall and Alvin Rabushka, 
+It is also partly inspired by the work "The Flat Tax, Second Edition," by Robert E Hall and Alvin Rabushka, 
 Stanford and Hoover Institute economists who were active in the late 20th and early 21st century
 in attempting to bring the sanity of a Flat Tax system to the United States. 
 
 This work is therefore deeded by me, Vector Hasting, under 
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by-sa]
 
 This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+[Creative Commons Attribution 4.0 International License][cc-by-sa].
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+[![CC BY 4.0][cc-by-image]][cc-by-sa]
 
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY-sA%204.0-lightgrey.svg
 
 Attribution 4.0 International 
 
