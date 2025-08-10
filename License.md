@@ -8,16 +8,14 @@ in attempting to bring the sanity of a Flat Tax system to the United States.
 
 This work is therefore deeded by me, Vector Hasting, under 
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by-sa]
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by-sa].
-
-[![CC BY 4.0][cc-by-image]][cc-by-sa]
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY-sA%204.0-lightgrey.svg
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 Attribution 4.0 International 
 
